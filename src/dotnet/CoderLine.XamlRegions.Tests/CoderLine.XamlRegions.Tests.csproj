@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ReSharperPlugin.XamlRegions\ReSharperPlugin.XamlRegions.Rider.csproj" />
+    <ProjectReference Include="..\CoderLine.XamlRegions\CoderLine.XamlRegions.Rider.csproj" />
   </ItemGroup>
 
   <ItemGroup>
